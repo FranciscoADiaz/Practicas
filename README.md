@@ -1,1 +1,1 @@
-Para visualizar descargar el repo y abrir en el navegador "index.html" de cada practica.
+Para visualizar cada ejercicio descargar el repo y abrir en el navegador el "index.html" de cada uno.
